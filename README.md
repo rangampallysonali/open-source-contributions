@@ -8,3 +8,4 @@ Tracking my DevOps, backend, and cloud open-source contributions.
 | OpenSRE | Added Jenkins CI/CD integration with build logs, running builds, and pipeline stages | Tracer-Cloud/opensre#2600 | Python, Jenkins, REST APIs, pytest, CI/CD |
 | Detoserve | Added CI workflow for PR validation | depadeto/detoserve#12 | GitHub Actions, YAML, CI/CD |
 | iknowyou | Added Dockerfile and docker-compose setup | anotherhadi/iknowyou#5 | Docker, Docker Compose, Containers |
+| Dawn | Added Dockerfile | kotagit75/Dawn#38 | Docker, Dockerfile |
